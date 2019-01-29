@@ -1,0 +1,1 @@
+summary(RcmdrTestDrive$salary)
